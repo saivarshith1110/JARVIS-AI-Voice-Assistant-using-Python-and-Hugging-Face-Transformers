@@ -30,5 +30,5 @@ JARVIS listens to your voice, understands your intent using NLP, and responds or
 
 ### Step 1: Clone the repository  
 ```bash
-git clone https://github.com/yourusername/jarvis-ai
+git clone https://github.com/saivarshith1110/jarvis-ai
 cd jarvis-ai
